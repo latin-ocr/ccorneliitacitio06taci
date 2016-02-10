@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitacitio06taci_0185.png"; bbox 0 0 1663 2958; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 334 468 1134 620">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 334 468 1134 620">
+     <span class='ocr_line' id='line_1_1' title="bbox 334 468 1134 620; baseline 0.006 -5"><span class='ocrx_word' id='word_1_1' title='bbox 334 468 1134 620; x_wconf 83' lang='lat' dir='ltr'><em>NOTAE</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 254 752 1231 834">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 254 752 1231 834">
+     <span class='ocr_line' id='line_1_2' title="bbox 254 752 1231 834; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 254 752 432 833; x_wconf 80' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 545 755 1231 834; x_wconf 85' lang='lat' dir='ltr'><strong>LIBRUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 128 932 1379 1100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 128 932 1379 1100">
+     <span class='ocr_line' id='line_1_3' title="bbox 128 932 1379 1100; baseline -0.002 -7"><span class='ocrx_word' id='word_1_4' title='bbox 128 994 225 1093; x_wconf 77' lang='lat' dir='ltr'><strong>c,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 293 987 767 1100; x_wconf 70' lang='lat' dir='ltr'><em>CORN.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 836 992 1017 1098; x_wconf 85' lang='lat' dir='ltr'><strong>TA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1044 932 1379 1094; x_wconf 73' lang='lat' dir='ltr'><strong>cm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 55 1227 1433 1315">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 55 1227 1433 1315">
+     <span class='ocr_line' id='line_1_4' title="bbox 55 1227 1433 1315; baseline -0.002 -16"><span class='ocrx_word' id='word_1_8' title='bbox 55 1229 185 1299; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 209 1231 643 1300; x_wconf 86' lang='lat' dir='ltr'><strong>MORIBUS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 675 1227 1392 1301; x_wconf 81' lang='lat' dir='ltr'>GERMANORUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1408 1276 1433 1315; x_wconf 85' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 121 1423 1378 1519">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 121 1423 1378 1519">
+     <span class='ocr_line' id='line_1_5' title="bbox 121 1423 1378 1519; baseline -0.001 -14"><span class='ocrx_word' id='word_1_12' title='bbox 121 1423 547 1507; x_wconf 78' lang='lat' dir='ltr'><em>VITAM</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 617 1424 1378 1519; x_wconf 74' lang='lat' dir='ltr'><em>AGRICOLAE,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 57 1618 1434 1973">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 57 1618 1434 1973">
+     <span class='ocr_line' id='line_1_6' title="bbox 158 1618 1342 1690; baseline -0.001 -12"><span class='ocrx_word' id='word_1_14' title='bbox 158 1618 608 1684; x_wconf 72' lang='lat' dir='ltr'>DIALOGUM</span> <span class='ocrx_word' id='word_1_15' title='bbox 642 1621 746 1680; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 785 1619 1296 1681; x_wconf 83' lang='lat' dir='ltr'>ORATORIBUS</span> <span class='ocrx_word' id='word_1_17' title='bbox 1319 1661 1342 1690; x_wconf 86' lang='lat'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 672 1767 832 1818; baseline 0.019 -3"><span class='ocrx_word' id='word_1_18' title='bbox 672 1767 716 1815; x_wconf 83' lang='lat' dir='ltr'><strong><em>E</em></strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 786 1767 832 1818; x_wconf 87' lang='grc' dir='ltr'><strong><em>Τ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 57 1896 1434 1973; baseline 0 -14"><span class='ocrx_word' id='word_1_20' title='bbox 57 1899 141 1959; x_wconf 84' lang='lat' dir='ltr'><strong>1N</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 179 1896 957 1962; x_wconf 87' lang='lat' dir='ltr'>SUPPLEMENTUM</span> <span class='ocrx_word' id='word_1_22' title='bbox 992 1897 1434 1973; x_wconf 56' lang='lat' dir='ltr'>DIALOGI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
